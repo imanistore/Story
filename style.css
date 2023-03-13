@@ -1,0 +1,558 @@
+* {
+    margin: 0px 0px;
+}
+
+
+.holder {
+    display: flex;
+    gap: 50px;
+
+}
+
+.iphone13 {
+
+    position: absolute;
+    width: 340px;
+    height: 700px;
+    left: 34px;
+    top: 21px;
+    background: #FAFAFA;
+    box-shadow: -30px -3px 69px rgba(0, 0, 0, 0.25), 30px 30px 60px rgba(0, 0, 0, 0.25);
+    border-radius: 40px;
+}
+
+.Flower {
+    position: relative;
+    z-index: 1;
+}
+
+.button {
+
+    width: 300px;
+    height: 40px;
+    font-family: 'Inconsolata' ';
+ font-size: 16px;
+    line-height: 18px;
+    background-color: black;
+    color: #FAFAFA;
+    padding: 3px 2px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 8px;
+}
+
+.iphone13-content {
+    position: absolute;
+    top: 450px;
+    padding-left: 20px;
+    padding-right: 20px;
+    
+}
+
+.story {
+    font-family: 'Inconsolata';
+    font-style: light;
+
+    font-size: 40px;
+    line-height: 42px;
+}
+
+.paragrph {
+    font-family: 'Inconsolata' ';
+ font-style: normal;
+
+    font-size: 16px;
+    line-height: 18px;
+    margin-top: 19px;
+    margin-bottom: 70px;
+
+    color: #0C1825;
+}
+
+
+.person {
+    position: absolute;
+
+    width: 507.85px;
+    height: 433.93px;
+    left: -9px;
+    top: 67.45px;
+}
+
+
+.shadow {
+
+    width: 180px;
+    height: 240px;
+    margin-top: 180px;
+    margin-left: 159px;
+    background: linear-gradient(182.46deg, #0C1825 -3.25%, #E1E2E4 40.27%, #FFFFFF 61%);
+    border-radius: 10px;
+}
+
+.iphone {
+    position: relative;
+    width: 340px;
+    height: 700px;
+    left: 420px;
+    top: 21px;
+    background: #FAFAFA;
+    box-shadow: -30px -3px 69px rgba(0, 0, 0, 0.25), 30px 30px 60px rgba(0, 0, 0, 0.25);
+    border-radius: 40px;
+}
+
+.navbar {
+    position: absolute;
+    width: 390px;
+    height: 47px;
+    left: 20px;
+    top: 12px;
+    align-content: center;
+
+}
+
+.time {
+    font-family: 'SF Pro Text';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 22px;
+    letter-spacing: -0.408px;
+    color: #010101;
+}
+
+.network {
+    position: absolute;
+    width: 77.4px;
+    height: 13px;
+    left: 240px;
+    top: -0px;
+}
+
+.step2 {
+    display: flex;
+    position: absolute;
+    width: 390px;
+    height: 47px;
+    left: 20px;
+    top: 60px;
+    align-content: center;
+}
+
+.content {
+    font-family: 'Inconsolata';
+    font-size: 15px;
+    line-height: 18px;
+    color: #0C1825;
+}
+
+.image {
+    padding-left: 99px;
+
+}
+
+.icon {
+    position: absolute;
+    top: 120px;
+    left: 24px;
+}
+
+.stories {
+    position: absolute;
+    left: 29.35px;
+    top: 156px;
+    font-family: 'Inconsolata';
+    line-height: 17px;
+    color: #0C1825;
+}
+
+.wrap {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    gap: 35px;
+
+    position: absolute;
+    width: 294.1px;
+    height: 30.3px;
+    left: 22.01px;
+    top: 180px;
+}
+
+.lion {
+    width: 50px;
+    height: 14px;
+    font-family: 'Inconsolata';
+    font-size: 12px;
+    line-height: 14px;
+    color: #A4A4A4;
+}
+
+.tortoise {
+    height: 14px;
+    font-family: 'Inconsolata';
+    font-size: 14px;
+    line-height: 14px;
+}
+
+.Winnie {
+    height: 14px;
+
+    font-family: 'Inconsolata';
+    font-size: 12px;
+    line-height: 14px;
+    color: #A4A4A4;
+}
+
+
+.Teddy01 {
+    position: absolute;
+    width: 296px;
+    height: 158px;
+    left: 20px;
+    top: 236px;
+    background: #ece6e6;
+    border-radius: 8px;
+
+}
+
+.rec {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 2.50256px 8.25292px;
+    position: absolute;
+    width: 280px;
+    bottom: 1px;
+    height: 23.75px;
+    background: #FFA500;
+    border-radius: 4.12646px;
+}
+
+.clock {
+    position: absolute;
+    display: flex;
+    align-self: start;
+    right: 5px;
+    top: 34px;
+    gap: 4px;
+    align-items: center;
+}
+
+.TM {
+    width: 18px;
+    left: 223px;
+    top: 375.79px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    color: #0C1825;
+}
+
+.min {
+    width: 18px;
+
+    left: 223px;
+    top: 375.79px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 11.4123px;
+    line-height: 14px;
+
+
+
+    color: #84888d;
+}
+
+.Teddy02 {
+    position: absolute;
+    width: 296px;
+    height: 150px;
+    left: 20px;
+    top: 420px;
+    background: #FFA500;
+    border-radius: 8px;
+
+}
+
+.rec {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 2.50256px 8.25292px;
+    position: absolute;
+    width: 280px;
+    bottom: 1px;
+    height: 23.75px;
+    background: #FFA500;
+    border-radius: 4.12646px;
+}
+
+.clock {
+    position: absolute;
+    display: flex;
+    align-self: start;
+    right: 5px;
+    top: 34px;
+    gap: 4px;
+    align-items: center;
+}
+
+.TM {
+    width: 18px;
+    left: 223px;
+    top: 375.79px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    color: #0C1825;
+}
+
+.min {
+    width: 18px;
+
+    left: 223px;
+    top: 375.79px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 11.4123px;
+    line-height: 14px;
+
+
+
+    color: #84888d;
+}
+
+.Teddy03 {
+    position: absolute;
+    width: 296px;
+    height: 100px;
+    left: 20px;
+    top: 598px;
+    background: #aca59a;
+    border-radius: 8px;
+    overflow: hidden;
+
+}
+
+.white {
+    display: flex;
+    align-items: center;
+    position: absolute;
+    width: 340px;
+    bottom: -1px;
+    height: 50px;
+    background: #FFFFFF;
+    border-radius: 0px 0px 40px 40px;
+}
+
+.Vector {
+    position: absolute;
+    display: flex;
+    left: 24px;
+    gap: 70px;
+}
+
+.third {
+    position: relative;
+    width: 340px;
+    height: 700px;
+    left: 420px;
+    top: 21px;
+    background: #FAFAFA;
+    box-shadow: -30px -3px 69px rgba(0, 0, 0, 0.25), 30px 30px 60px rgba(0, 0, 0, 0.25);
+    border-radius: 40px;
+}
+
+.navbar {
+    position: absolute;
+    width: 390px;
+    height: 47px;
+    left: 20px;
+    top: 12px;
+    align-content: center;
+
+}
+
+.time {
+    font-family: 'SF Pro Text';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 22px;
+    letter-spacing: -0.408px;
+    color: #010101;
+}
+
+.network {
+    position: absolute;
+    width: 77.4px;
+    height: 13px;
+    left: 240px;
+    top: -0px;
+}
+
+.frame {
+
+
+    position: absolute;
+
+    left: 22px;
+    top: 45.65px;
+}
+
+.rect {
+    position: absolute;
+    width: px;
+    height: 190px;
+    overflow: hidden;
+    top: 78px;
+    background: #f0f4f8;
+}
+
+.spread {
+    width: 340px;
+
+}
+
+.but {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+    padding: 2.50256px 8.25292px;
+    position: absolute;
+    width: 322px;
+    top: 250px;
+    height: 30px;
+    background: #FFA500;
+
+}
+
+.dot {
+    display: flex;
+    flex-direction: row;
+    gap: 80px;
+
+}
+
+.elip1 {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 0px;
+    bottom: -8px;
+    background: #FAFAFA;
+    border-radius: 30px;
+}
+
+.elip2 {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 39px;
+    bottom: -10px;
+    background: #FAFAFA;
+    border-radius: 30px;
+}
+
+.elip3 {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 79px;
+    bottom: -10px;
+    background: #FAFAFA;
+    border-radius: 30px;
+}
+
+.elip4 {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 119px;
+    bottom: -10px;
+    background: #FAFAFA;
+    border-radius: 30px;
+}
+
+.elip5 {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 159px;
+    bottom: -10px;
+    background: #FAFAFA;
+    border-radius: 30px;
+}
+
+.elip6 {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 199px;
+    bottom: -10px;
+    background: #FAFAFA;
+    border-radius: 30px;
+}
+
+.elip7 {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 239px;
+    bottom: -10px;
+    background: #FAFAFA;
+    border-radius: 30px;
+}
+
+.elip8 {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 279px;
+    bottom: -10px;
+    background: #FAFAFA;
+    border-radius: 30px;
+}
+
+.elip9 {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 319px;
+    bottom: -10px;
+    background: #FAFAFA;
+    border-radius: 30px;
+}
+.divcon{
+    position: absolute;
+        width: 293px;
+        height: 360px;
+        left: 28px;
+        top: 299px;
+        gap: 90px;
+    
+        font-family: 'DM Sans';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 12px;
+        line-height: 18px;
+       
+    
+        
+    
+        color: #000000;
+}
